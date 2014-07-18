@@ -1,5 +1,5 @@
 {
-    "name": "customer-alliance/guzzle-client-xing",
+    "name": "bjoernschotte/php-sdk-for-XING",
     "type": "library",
     "description": "PHP SDK for Xing API",
     "keywords": ["library","foo","composer"],
